@@ -1,0 +1,38 @@
+div {
+  line-height: 20px; }
+
+#x {
+  font-family: Arial, sans-serif;
+  width: 50%; }
+
+a {
+  color: #0088cc;
+  text-decoration: none; }
+  a:hover {
+    color: #054877; }
+
+.slide-show {
+  max-width: 600px; }
+
+.post-head {
+  font-weight: bold; }
+  .post-head h4 {
+    margin: .5em 0; }
+
+.post-list-item {
+  display: flex;
+  flex-direction: row; }
+
+.list-item-indent {
+  margin-top: .91em;
+  margin-left: .5em;
+  margin-right: .5em; }
+
+#d1, #d4 {
+  font-weight: bold; }
+
+.item-paragraph {
+  font-size: 14px;
+  margin: 1em 0; }
+
+/*# sourceMappingURL=new.css.map */
